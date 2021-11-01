@@ -1,0 +1,40 @@
+CRITICAL - 2021-10-23 08:50:58 --> CodeIgniter\View\Table::_prepArgs(): Argument #1 ($args) must be of type array, string given, called in C:\xampp\htdocs\ci4\system\View\Table.php on line 426
+#0 C:\xampp\htdocs\ci4\system\View\Table.php(426): CodeIgniter\View\Table->_prepArgs('<table border="...')
+#1 C:\xampp\htdocs\ci4\system\View\Table.php(272): CodeIgniter\View\Table->_setFromArray(Array)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Data.php(46): CodeIgniter\View\Table->generate(Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Data->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-23 08:51:23 --> CodeIgniter\View\Table::_prepArgs(): Argument #1 ($args) must be of type array, string given, called in C:\xampp\htdocs\ci4\system\View\Table.php on line 426
+#0 C:\xampp\htdocs\ci4\system\View\Table.php(426): CodeIgniter\View\Table->_prepArgs('<table border="...')
+#1 C:\xampp\htdocs\ci4\system\View\Table.php(272): CodeIgniter\View\Table->_setFromArray(Array)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Data.php(46): CodeIgniter\View\Table->generate(Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Data->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-23 08:51:36 --> CodeIgniter\View\Table::_prepArgs(): Argument #1 ($args) must be of type array, string given, called in C:\xampp\htdocs\ci4\system\View\Table.php on line 426
+#0 C:\xampp\htdocs\ci4\system\View\Table.php(426): CodeIgniter\View\Table->_prepArgs('<table border="...')
+#1 C:\xampp\htdocs\ci4\system\View\Table.php(272): CodeIgniter\View\Table->_setFromArray(Array)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Data.php(46): CodeIgniter\View\Table->generate(Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Data->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-23 08:52:11 --> CodeIgniter\View\Table::_prepArgs(): Argument #1 ($args) must be of type array, string given, called in C:\xampp\htdocs\ci4\system\View\Table.php on line 426
+#0 C:\xampp\htdocs\ci4\system\View\Table.php(426): CodeIgniter\View\Table->_prepArgs('<table border="...')
+#1 C:\xampp\htdocs\ci4\system\View\Table.php(272): CodeIgniter\View\Table->_setFromArray(Array)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Data.php(46): CodeIgniter\View\Table->generate(Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(802): App\Controllers\Data->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
